@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "name": "iPhone 11 PRO",
+      "price": 999,
+      "id": 2
+    },
+    {
+      "name": "s20",
+      "price": 2000,
+      "id": 3
+    },
+    {
+      "name": "p30",
+      "price": 1230,
+      "id": 4
+    }
+  ]
+}
